@@ -1,0 +1,1 @@
+go build -o py-requirements-gen main.go
