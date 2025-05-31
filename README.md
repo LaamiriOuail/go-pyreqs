@@ -109,11 +109,12 @@ Running:
 
 Will generate `requirements.txt` with content similar to this (versions depend on your installed packages):
 
+```plaintext
 Flask==2.3.2
 numpy==1.24.3
 pandas==2.0.2
 requests==2.31.0
-
+```
 
 ---
 ## 🔍 How It Works
